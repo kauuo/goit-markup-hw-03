@@ -258,6 +258,7 @@ img {
 
 .portfilio-item {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .product-title {
