@@ -212,12 +212,13 @@ img {
     display: flex;
     margin-top: 72px;
     gap: 24px;
-    border-radius: 0px 0px 4px 4px;
+
 
 }
 
 .team-member {
     background-color: #fff;
+    border-radius: 0px 0px 4px 4px;
 }
 
 .member-info {
@@ -239,7 +240,7 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
-    
+
 }
 
 .portfolio-title {
