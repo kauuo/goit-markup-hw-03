@@ -248,10 +248,9 @@ img {
     text-align: center;
     text-transform: capitalize;
     font-size: 36px;
-    font-weight: 700;
     line-height: 1.11;
-    letter-spacing: 0.04em;
-    margin: 0 auto;
+    letter-spacing: 0.02em;
+
     margin-bottom: 72px;
 }
 
@@ -294,7 +293,12 @@ img {
     padding: 100px 0;
 }
 
-.logo-second-light {
+.footer-logo{
+    display: inline-block;
+    margin-bottom: 16px;
+}
+
+.logo-light {
     color: #F4F4FD;
     font-family: 'Raleway',sans-serif;
     font-size: 18px;
@@ -302,10 +306,6 @@ img {
     line-height: 1.16;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    display: inline-block;
-    margin-bottom: 16px;
-}
-.footer-link {
     display: inline-block;
     margin-bottom: 16px;
 
