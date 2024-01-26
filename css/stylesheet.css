@@ -58,6 +58,7 @@ img {
     text-transform: uppercase;
     margin-right: 76px;
     
+    
 }
 .logo-second {
     color: #2E2F42;
@@ -267,6 +268,13 @@ img {
 .portfilio-item {
 
 }
+.product-wrapper {
+    padding: 32px 16px;
+    border: 1px solid #e7e9fc;
+    border-top: none;
+    margin-bottom: 8px;
+
+}
 
 .product-title {
     color: #2E2F42;
@@ -284,6 +292,7 @@ img {
 
 .footer {
     background-color: #2E2F42;
+    padding: 100px 0;
 }
 
 .logo-second-light {
@@ -294,6 +303,8 @@ img {
     line-height: 1.16;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    display: inline-block;
+    margin-bottom: 16px;
 }
 
 .footer-text {
@@ -301,4 +312,5 @@ img {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    max-width: 264px;
 }
