@@ -280,6 +280,7 @@ img {
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    margin-bottom: 8px
 }
 
 .product-text {
@@ -303,6 +304,11 @@ img {
     text-transform: uppercase;
     display: inline-block;
     margin-bottom: 16px;
+}
+.footer-link {
+    display: inline-block;
+    margin-bottom: 16px;
+
 }
 
 .footer-text {
